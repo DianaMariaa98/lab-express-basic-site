@@ -1,0 +1,57 @@
+body, html {
+    background-color:azure;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.portrait{
+    width:90%;
+    height:40%;
+}
+
+#homePage{
+    text-align: center;
+}
+
+h2{
+    font-size: 1.4em;
+    padding-left: 2%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:thistle
+}
+
+.aRef{
+    font-size: 1.2em;
+    display:flex;
+    justify-content: space-evenly;
+    
+}
+
+.impala, .wishbone{
+    width:80%;
+    height:50%;
+}
+.bigsky{
+    width:83%;
+    height:50%;
+}
+.work_movie{
+    text-align: center;
+    
+}
+.aboutJensen, .careerJensen{
+    padding-left: 2%;
+    padding-right: 2%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    padding-left: 2%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:thistle
+}
+.logo{
+    width: 50%;
+    height: 50%;
+    padding-top: 5%;
+}
